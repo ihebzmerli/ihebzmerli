@@ -15,13 +15,13 @@ and online resume.
 
 
 ## Table of My skills
-✔️ Vanilla JavaScript
-✔️ Angular, React & Vue
-✔️ Node.js, Java, Spring,Spring-boot
-✔️ Python & Django
-✔️ PHP, Symfony
-✔️ npm, Maven
-✔️ HTML, CSS
+✔️ Vanilla JavaScript\
+✔️ Angular, React & Vue\
+✔️ Node.js, Java, Spring,Spring-boot\
+✔️ Python & Django\
+✔️ PHP, Symfony\
+✔️ npm, Maven\
+✔️ HTML, CSS\
 
 
 
