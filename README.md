@@ -29,7 +29,7 @@ and online resume.
 - 📫 You can reach me to my
 
 ✨Email : iheb.zmerli@esprit.tn
-💞️linkedin : zmerli-iheb
+💞️linkedin : linkedin.com/in/zmerli-iheb
 
 <!---
 - 💞️ I’m looking to collaborate on ...
