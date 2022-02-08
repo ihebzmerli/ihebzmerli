@@ -11,10 +11,13 @@ and online resume.
 
 ## Table of My skills By sections
 
-- [Sections](#sections)
+- [Skills](#skills)
+- [Professional Experience](#professional experience)
+- [Languages](#languages)
+- [Academic Curriculum](#academic curriculum)
+- [Hobbies](#hobbies)
 
-
-## Table of My skills
+## Table of My Skills
 ✔️ Vanilla JavaScript\
 ✔️ Angular, React & Vue\
 ✔️ Node.js, Java, Spring,Spring-boot\
@@ -24,6 +27,17 @@ and online resume.
 ✔️ HTML, CSS\
 
 
+## Professional Experience
+
+
+
+## Languages
+
+
+
+## Academic Curriculum
+
+## Hobbies
 
 
 - 📫 You can reach me to my
