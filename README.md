@@ -12,9 +12,9 @@ and online resume.
 ## Table of My skills By sections
 
 - [Skills](#skills)
-- [Professional Experience](#professional experience)
+- [Professional Experience](#professional-experience)
 - [Languages](#languages)
-- [Academic Curriculum](#academic curriculum)
+- [Academic Curriculum](#academic-curriculum)
 - [Hobbies](#hobbies)
 
 ## Table of My Skills
@@ -24,7 +24,7 @@ and online resume.
 ✔️ Python & Django\
 ✔️ PHP, Symfony\
 ✔️ npm, Maven\
-✔️ HTML, CSS\
+✔️ HTML, CSS
 
 
 ## Professional Experience
